@@ -9,7 +9,7 @@
 ---
 
 ### 🌌 About Me
-Highly driven **Digital Forensics and Cyber Security** scholar with a solid foundation in computer networking, wireless communication, and IT administration. I bridge the gap between secure network architecture and intelligent, AI-driven digital problem solving. 
+Highly driven **Digital Forensics and Cyber Security** scholar with a solid foundation in computer networking, wireless communication, and IT administration. I bridge the gap between secure networ[...]
 
 - 🎓 **BS in Digital Forensics & Cyber Security** student at Hamdard University.
 - 🏆 **Mitacs GRI 2026 Scholar** at the University of Victoria, Canada.
@@ -101,8 +101,8 @@ Highly driven **Digital Forensics and Cyber Security** scholar with a solid foun
 
 ### 📊 GitHub Activity & Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pro-osama-saeed&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Osama's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-osama-saeed&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pro-osama-saeed&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-osama-saeed&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 ---
