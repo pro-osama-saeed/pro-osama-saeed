@@ -1,7 +1,7 @@
 # ⚡ `whoami` > Osama Saeed <!--[cite: 1] -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=DIGITAL+FORENSICS+%26+CYBER+SECURITY+SCHOLAR;MITACS+GRI+2026+SCHOLAR+%40+UVIC;AI+DEVELOPER+%26+NETWORK+ANALYST" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=700&lines=DIGITAL+FORENSICS+%26+CYBER+SECURITY+SCHOLAR;MITACS+GRI+2026+RESEARCH+SCHOLAR+%40+UVIC;AI+PASSIONATE+%26+SECURING+DIGITAL+SYSTEMS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,4 +19,4 @@
 [Core Focus]     Digital Forensics & Incident Response (DFIR) | Network Security <!--[cite: 1] -->
 [Affiliation]    Hamdard University (BS Digital Forensics & Cyber Security) <!--[cite: 1] -->
 [Current Status] Mitacs GRI 2026 Research Scholar @ University of Victoria, Canada <!--[cite: 1] -->
-[Academic Rank]  Merit Scholar | CGPA: 3.84 / 4.00 <!--[cite: 1] -->
+[Academic Rank]  Merit Scholar | CGPA: 3.86 / 4.00 <!--[cite: 1] -->
