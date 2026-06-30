@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Osama Saeed! 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/59600c30-f547-4901-90f2-48f55534e4e5" /># 👋 Hi there, I'm Osama Saeed! 
 
 <p align="center">
   <a href="https://linkedin.com/in/pro-osama-saeed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,7 +12,7 @@
 Highly driven **Digital Forensics and Cyber Security** scholar with a solid foundation in computer networking, wireless communication, and IT administration. I bridge the gap between secure network architecture and intelligent, AI-driven digital problem solving. 
 
 - 🎓 **BS in Digital Forensics & Cyber Security** student at Hamdard University.
-- 🇨🇦 **Mitacs GRI 2026 Scholar** at the University of Victoria, Canada.
+-  🇨🇦 **Mitacs GRI 2026 Scholar** at the University of Victoria, Canada.
 - 🏆 **Merit Scholar** with a stellar **3.84 / 4.00 CGPA**.
 - 💡 Passionate about Computer Vision, Network Security, and Tech Leadership.
 
