@@ -1,7 +1,7 @@
 # ⚡ `whoami` > Osama Saeed <!--[cite: 1] -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=700&lines=DIGITAL+FORENSICS+%26+CYBER+SECURITY+SCHOLAR;MITACS+GRI+2026+RESEARCH+SCHOLAR+%40+UVIC;AI+PASSIONATE+%26+SECURING+DIGITAL+SYSTEMS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=700&lines=DIGITAL+FORENSICS+%26+CYBER+SECURITY+SCHOLAR;RESEARCH+SCHOLAR+%40+UVIC+CANADA;+SECURING+DIGITAL+SYSTEMS+USING+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
