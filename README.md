@@ -12,7 +12,7 @@
 Highly driven **Digital Forensics and Cyber Security** scholar with a solid foundation in computer networking, wireless communication, and IT administration. I bridge the gap between secure network architecture and intelligent, AI-driven digital problem solving. 
 
 - 🎓 **BS in Digital Forensics & Cyber Security** student at Hamdard University.
-- 🇨🇦 **Mitacs GRI 2026 Scholar** at the University of Victoria, Canada.
+- 🏆 **Mitacs GRI 2026 Scholar** at the University of Victoria, Canada.
 - 🏆 **Merit Scholar** with a stellar **3.84 / 4.00 CGPA**.
 - 💡 Passionate about Computer Vision, Network Security, and Tech Leadership.
 
